@@ -6,4 +6,4 @@ sudo: false
 install: gradle wrapper --gradle-version 5.5
 
 jdk:
-  - oraclejdk8
+  - oraclejdk10
